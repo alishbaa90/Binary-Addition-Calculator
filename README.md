@@ -1,1 +1,2 @@
-# Binary-Addition-Calculator
+# Binary-Addition-Calculator-using-LogicGates(Breadboard Project)
+This project implements a binary calculator on a breadboard using fundamental logic gates to perform binary addition. Developed as part of a Digital Design Logic course, it focuses on binary arithmetic, circuit design, and hardware implementation. The project emphasizes hands-on learning through circuit construction, testing, and debugging, offering insights into the practical application of digital electronics. Documentation includes design methodology, troubleshooting strategies, and evaluation of accuracy and limitations.
