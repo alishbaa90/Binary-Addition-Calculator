@@ -30,3 +30,10 @@ A simple binary calculator built using basic logic gates on a breadboard. It per
 - Explore logic gate operations  
 - Implement full adder circuits  
 - Practice hands-on digital electronics
+
+## 🚀 Project Display
+
+![Image](https://github.com/user-attachments/assets/c6f44fc5-2164-4432-93d1-5c8cb9e42471)
+![Image](https://github.com/user-attachments/assets/4e267cf4-9a7b-4f4a-aac1-118b907c766b)
+![Image](https://github.com/user-attachments/assets/533ada16-1539-4033-9c9c-6b032d1f547f)
+
