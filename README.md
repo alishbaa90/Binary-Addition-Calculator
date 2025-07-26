@@ -1,2 +1,32 @@
-# Binary-Addition-Calculator-using-LogicGates(Breadboard Project)
-This project implements a binary calculator on a breadboard using fundamental logic gates to perform binary addition. Developed as part of a Digital Design Logic course, it focuses on binary arithmetic, circuit design, and hardware implementation. The project emphasizes hands-on learning through circuit construction, testing, and debugging, offering insights into the practical application of digital electronics. Documentation includes design methodology, troubleshooting strategies, and evaluation of accuracy and limitations.
+# 🔢 Binary Addition Calculator (Logic Gate-Based)
+
+## 📘 Overview  
+A simple binary calculator built using basic logic gates on a breadboard. It performs binary addition using full-adder circuits made from XOR, AND, and OR gates. The project helps understand the fundamentals of digital logic and computing.
+
+## ✨ Features  
+- Adds two 4-bit binary numbers  
+- Binary input via DIP switches  
+- Output displayed using LEDs  
+- Built with full-adder logic (no microcontroller)  
+- Real-time, hardware-based binary addition
+
+## 🔧 Technologies & Components Used  
+- Breadboard  
+- DIP Switches  
+- Logic Gate ICs (7486 - XOR, 7408 - AND, 7432 - OR)  
+- LEDs  
+- Resistors  
+- Jumper wires  
+- 5V power supply
+
+## 📋 Usage  
+1. Set binary inputs using DIP switches  
+2. Observe the output on LEDs  
+3. Sum and carry bits are shown in real time  
+4. Learn how full adders work in practice
+
+## 🎯 Educational Objective  
+- Understand binary arithmetic  
+- Explore logic gate operations  
+- Implement full adder circuits  
+- Practice hands-on digital electronics
